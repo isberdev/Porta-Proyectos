@@ -18,10 +18,10 @@
 
 ### Listado de proyectos:
 
-1- Rama Main Descripcion
+- Rama 01
 Creacion de una Quiz de preguntas-respuestas de 50 preguntas de cine gestionada desde un .json.
 
-2- Rama Trivial JavaScript(Vanila)
-3- Rama Trivial React
-4- Rama Trvial Vue.js
-5- Rama Trivial Angular
+- Rama Trivial JavaScript(Vanila)
+- Rama Trivial React
+- Rama Trvial Vue.js
+- Rama Trivial Angular
