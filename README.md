@@ -9,7 +9,7 @@
   </sub>
 </div>
 <div align="center">
- <h2>Currículum code por Ismael García Bermejo</h2>
+ <h2>Currículum Code Por Ismael García Bermejo</h2>
 </div>
 <div align="center">
 <p>En este repositorio encontraréis dividido por ramas diferentes proyectos de aprendizaje con diversos lenguajes de programación con su correspondiente Deploy.</p>
