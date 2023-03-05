@@ -9,7 +9,7 @@
   </sub>
 </div>
 <div align="center">
- <h3>Proyectos de Visualización de codigo de trabajo y currículum code: Ismael García Bermejo.</h3>
+ <h2>Proyectos de Visualización de codigo de trabajo y currículum code: Ismael García Bermejo.</h2>
 </div>
 <div align="center">
 <p>En este repositorio encontraréis dividido por ramas diferentes proyectos de aprendizaje con diversos lenguajes de programación con su correspondiente Deploy.</p>
