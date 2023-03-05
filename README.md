@@ -11,10 +11,12 @@
 <div align="center">
  <h3>Proyectos de Visualización de codigo de trabajo y currículum code: Ismael García Bermejo.</h3>
 </div>
-Buenas¡
-este repositorios esta creado para ordenar y mostrar los proyectos de codigo del desallorador Ismael García Bermejo.
+<div align="center">
+<p>En este repositorio encontraréis dividido por ramas diferentes proyectos de aprendizaje con diversos lenguajes de programación con su correspondiente Deploy.</p>
+</div>
+</br>
 
-Lista de proyectos:
+### Listado de proyectos:
 
 1- Rama Main Descripcion
 Creacion de una Quiz de preguntas-respuestas de 50 preguntas de cine gestionada desde un .json.
