@@ -24,16 +24,19 @@
 <a href="Proyecto1">
 <img src="./proximamente.png">
 </a>
+  <div><h4>Titulo</h4><span>Descrpcion</span></div>
 </td>
 <td>
 <a href="Proyecto2">
 <img src="./proximamente.png">
 </a>
+<div><h4>Titulo</h4><span>Descrpcion</span></div>
 </td>
 <td>
 <a href="Proyecto3">
 <img src="./proximamente.png">
 </a>
+ <div><h4>Titulo</h4><span>Descrpcion</span></div>
 </td>
 </tr>
 <tr>
@@ -41,16 +44,19 @@
 <a href="Proyecto4">
 <img src="./proximamente.png">
 </a>
+ <div><h4>Titulo</h4><span>Descrpcion</span></div>
 </td>
 <td>
 <a href="Proyecto5">
 <img src="./proximamente.png">
 </a>
+ <div><h4>Titulo</h4><span>Descrpcion</span></div>
 </td>
 <td>
 <a href="Proyecto6">
 <img src="./proximamente.png">
 </a>
+<div><h4>Titulo</h4><span>Descrpcion</span></div>
 </td>
 </tr>
 </table>
