@@ -22,7 +22,7 @@
 <tr>
 <td>
 <a href="Proyecto1">
-<img src="./proximamente.png">
+<img src="./pantalla.bmp">
 </a>
 <div><h4>Listado de Productos</h4><span>Proyecto MEAN (Angular-Express-Bootstrap-Mongo) Listado de productos en base de datos con CRUD de los articulos.</span></div>
 </td>
