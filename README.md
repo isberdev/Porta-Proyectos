@@ -10,9 +10,12 @@
 </div>
 <div align="center">
  <h2>Currículum Code Por Ismael García Bermejo</h2>
+    <sub>Rama:
+  <a href="https://github.com/IsmaelGB86/Porta-Proyectos/tree/AngularList" target="_blank">AngularList</a><br><br>
+  </sub>
 </div>
 <div>
-<p>En este repositorio encontraréis dividido por ramas diferentes proyectos de aprendizaje con diversos lenguajes de programación con su correspondiente Deploy.</p>
+<p>Pequeño Proyecto de Listado de Productos con Angular/bootstrap/toastr en el Frontend y Express/Mongo en el Backend.</p>
 </div>
 </br>
 
