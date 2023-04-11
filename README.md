@@ -24,19 +24,19 @@
 <a href="Proyecto1">
 <img src="./proximamente.png">
 </a>
-  <div><h4>Titulo</h4><span>Descrpcion</span></div>
+<div><h4>Listado de Productos</h4><span>Proyecto MEAN (Angular-Express-Bootstrap-Mongo) Listado de productos en base de datos con CRUD de los articulos.</span></div>
 </td>
 <td>
 <a href="Proyecto2">
 <img src="./proximamente.png">
 </a>
-<div><h4>Titulo</h4><span>Descrpcion</span></div>
+<div><h4>Titulo</h4><span>Lorem ipsum dolor sit amet consectetur adipiscing elit magna tristique, fringilla donec morbi eleifend nascetur.</span></div>
 </td>
 <td>
 <a href="Proyecto3">
 <img src="./proximamente.png">
 </a>
- <div><h4>Titulo</h4><span>Descrpcion</span></div>
+<div><h4>Titulo</h4><span>Lorem ipsum dolor sit amet consectetur adipiscing elit magna tristique, fringilla donec morbi eleifend nascetur.</span></div>
 </td>
 </tr>
 <tr>
@@ -44,19 +44,19 @@
 <a href="Proyecto4">
 <img src="./proximamente.png">
 </a>
- <div><h4>Titulo</h4><span>Descrpcion</span></div>
+<div><h4>Titulo</h4><span>Lorem ipsum dolor sit amet consectetur adipiscing elit magna tristique, fringilla donec morbi eleifend nascetur.</span></div>
 </td>
 <td>
 <a href="Proyecto5">
 <img src="./proximamente.png">
 </a>
- <div><h4>Titulo</h4><span>Descrpcion</span></div>
+<div><h4>Titulo</h4><span>Lorem ipsum dolor sit amet consectetur adipiscing elit magna tristique, fringilla donec morbi eleifend nascetur.</span></div>
 </td>
 <td>
 <a href="Proyecto6">
 <img src="./proximamente.png">
 </a>
-<div><h4>Titulo</h4><span>Descrpcion</span></div>
+<div><h4>Titulo</h4><span>Lorem ipsum dolor sit amet consectetur adipiscing elit magna tristique, fringilla donec morbi eleifend nascetur.</span></div>
 </td>
 </tr>
 </table>
