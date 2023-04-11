@@ -16,12 +16,41 @@
 </div>
 </br>
 
-### Listado de proyectos:
+## Listado de proyectos:
 
-- Rama 01
-Creacion de una Quiz de preguntas-respuestas de 50 preguntas de cine gestionada desde un .json.
-
-- Rama Trivial JavaScript(Vanila)
-- Rama Trivial React
-- Rama Trvial Vue.js
-- Rama Trivial Angular
+<table style="width:100%">
+<tr>
+<td>
+<a href="Proyecto1">
+<img src="./proximamente.png">
+</a>
+</td>
+<td>
+<a href="Proyecto2">
+<img src="./proximamente.png">
+</a>
+</td>
+<td>
+<a href="Proyecto3">
+<img src="./proximamente.png">
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="Proyecto4">
+<img src="./proximamente.png">
+</a>
+</td>
+<td>
+<a href="Proyecto5">
+<img src="./proximamente.png">
+</a>
+</td>
+<td>
+<a href="Proyecto6">
+<img src="./proximamente.png">
+</a>
+</td>
+</tr>
+</table>
