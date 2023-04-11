@@ -19,47 +19,11 @@
 </div>
 </br>
 
-## Listado de proyectos:
+## Listado de Productos:
 
-<table style="width:100%">
-<tr>
 <td>
 <a href="Proyecto1">
 <img src="./pantalla.bmp">
 </a>
 <div><h4>Listado de Productos</h4><span>Proyecto MEAN (Angular-Express-Bootstrap-Mongo) Listado de productos en base de datos con CRUD de los articulos.</span></div>
 </td>
-<td>
-<a href="Proyecto2">
-<img src="./proximamente.png">
-</a>
-<div><h4>Titulo</h4><span>Lorem ipsum dolor sit amet consectetur adipiscing elit magna tristique, fringilla donec morbi eleifend nascetur.</span></div>
-</td>
-<td>
-<a href="Proyecto3">
-<img src="./proximamente.png">
-</a>
-<div><h4>Titulo</h4><span>Lorem ipsum dolor sit amet consectetur adipiscing elit magna tristique, fringilla donec morbi eleifend nascetur.</span></div>
-</td>
-</tr>
-<tr>
-<td>
-<a href="Proyecto4">
-<img src="./proximamente.png">
-</a>
-<div><h4>Titulo</h4><span>Lorem ipsum dolor sit amet consectetur adipiscing elit magna tristique, fringilla donec morbi eleifend nascetur.</span></div>
-</td>
-<td>
-<a href="Proyecto5">
-<img src="./proximamente.png">
-</a>
-<div><h4>Titulo</h4><span>Lorem ipsum dolor sit amet consectetur adipiscing elit magna tristique, fringilla donec morbi eleifend nascetur.</span></div>
-</td>
-<td>
-<a href="Proyecto6">
-<img src="./proximamente.png">
-</a>
-<div><h4>Titulo</h4><span>Lorem ipsum dolor sit amet consectetur adipiscing elit magna tristique, fringilla donec morbi eleifend nascetur.</span></div>
-</td>
-</tr>
-</table>
