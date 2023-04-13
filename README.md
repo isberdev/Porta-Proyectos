@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Repositorio Porta-Proyectos</h1>
+  <h1> Repositorio Proyectos MEAN Listado de Productos</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/ismael-garc%C3%ADa-bermejo/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -10,53 +10,22 @@
 </div>
 <div align="center">
  <h2>Currículum Code Por Ismael García Bermejo</h2>
+    <sub>Rama:
+  <a href="https://github.com/IsmaelGB86/Porta-Proyectos/tree/ReactTodoList" target="_blank">ReactTodoList</a><br><br>
+  </sub>
 </div>
 <div>
-<p>En este repositorio encontraréis dividido por ramas diferentes proyectos de aprendizaje con diversos lenguajes de programación con su correspondiente Deploy.</p>
+<p>Pequeño Proyecto TodoList con React/bootstrap/toastr en el Frontend y Nest/Mongo en el Backend.</p>
 </div>
 </br>
 
-## Listado de proyectos:
+## Listado de Productos:
 
-<table style="width:100%">
-<tr>
 <td>
-<a href="https://github.com/IsmaelGB86/Porta-Proyectos/tree/AngularList">
-<img src="./pantalla.bmp">
-</a>
-<div><h4>Listado de Productos</h4><span>Proyecto MEAN (Angular-Express-Bootstrap-Mongo) Listado de productos en base de datos con CRUD de los articulos.</span></div>
-</td>
-<td>
-<a href="Proyecto2">
+<a href="Proyecto1">
 <img src="./proximamente.png">
 </a>
-<div><h4>Titulo</h4><span>Lorem ipsum dolor sit amet consectetur adipiscing elit magna tristique, fringilla donec morbi eleifend nascetur.</span></div>
+<div><h4>TodoList</h4><span>Proyecto MERN (React-Nest-Bootstrap-Mongo) TodoList en base de datos con CRUD de los articulos.</span></div>
 </td>
-<td>
-<a href="Proyecto3">
-<img src="./proximamente.png">
-</a>
-<div><h4>Titulo</h4><span>Lorem ipsum dolor sit amet consectetur adipiscing elit magna tristique, fringilla donec morbi eleifend nascetur.</span></div>
-</td>
-</tr>
-<tr>
-<td>
-<a href="Proyecto4">
-<img src="./proximamente.png">
-</a>
-<div><h4>Titulo</h4><span>Lorem ipsum dolor sit amet consectetur adipiscing elit magna tristique, fringilla donec morbi eleifend nascetur.</span></div>
-</td>
-<td>
-<a href="Proyecto5">
-<img src="./proximamente.png">
-</a>
-<div><h4>Titulo</h4><span>Lorem ipsum dolor sit amet consectetur adipiscing elit magna tristique, fringilla donec morbi eleifend nascetur.</span></div>
-</td>
-<td>
-<a href="Proyecto6">
-<img src="./proximamente.png">
-</a>
-<div><h4>Titulo</h4><span>Lorem ipsum dolor sit amet consectetur adipiscing elit magna tristique, fringilla donec morbi eleifend nascetur.</span></div>
-</td>
-</tr>
-</table>
+<br><br>
+<a href="https://github.com/IsmaelGB86/Porta-Proyectos/tree/main/" target="_blank">Volver a Porta-Proyectos</a>
