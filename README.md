@@ -15,7 +15,7 @@
   </sub>
 </div>
 <div>
-<p>Pequeño Proyecto TodoList con React/bootstrap/toastr en el Frontend y Nest/Mongo en el Backend.</p>
+<p>Pequeño Proyecto TodoList con React/bootstrap/toastr en el Frontend y Nest/Swagger/Mongo en el Backend.</p>
 </div>
 </br>
 
