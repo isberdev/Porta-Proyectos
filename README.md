@@ -15,7 +15,7 @@
   </sub>
 </div>
 <div>
-<p>Pequeño Proyecto TodoList con React/bootstrap/toastr en el Frontend y Nest/Swagger/Mongo en el Backend.</p>
+<p>Pequeño Proyecto TodoList con React/ant-Design en el Frontend y Nest/Swagger/Mongo en el Backend.</p>
 </div>
 </br>
 
@@ -25,7 +25,7 @@
 <a href="Proyecto1">
 <img src="./proximamente.png">
 </a>
-<div><h4>TodoList</h4><span>Proyecto MERN (React-Nest-Bootstrap-Mongo) TodoList en base de datos con CRUD de los articulos.</span></div>
+<div><h4>TodoList</h4><span>Proyecto MERN (React-Nest-AntDesign-Mongo) TodoList en base de datos con CRUD de los articulos.</span></div>
 </td>
 <br><br>
 <a href="https://github.com/IsmaelGB86/Porta-Proyectos/tree/main/" target="_blank">Volver a Porta-Proyectos</a>
