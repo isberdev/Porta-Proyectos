@@ -25,7 +25,7 @@
 <a href="Proyecto1">
 <img src="./proximamente.png">
 </a>
-<div><h4>TodoList</h4><span>Proyecto MERN (React-Nest-AntDesign-Mongo) TodoList en base de datos con CRUD de los articulos.</span></div>
+<div><h4>TodoList</h4><span>Proyecto MERN (React-Nest-AntDesign-Mongo) MEAN (Angular-Nest-AntDesign-Mongo) TodoList en base de datos con CRUD de entradas.</span></div>
 </td>
 <br><br>
 <a href="https://github.com/IsmaelGB86/Porta-Proyectos/tree/main/" target="_blank">Volver a Porta-Proyectos</a>
