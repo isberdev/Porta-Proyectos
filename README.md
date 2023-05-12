@@ -22,7 +22,7 @@
 ## TodoList:
 
 <td>
-<a href="https://github.com/IsmaelGB86/Porta-Proyectos/tree/ReactTodoList" target="_blank">ReactTodoList">
+<a href="https://github.com/IsmaelGB86/Porta-Proyectos/tree/ReactTodoList">
 <img src="./React Todolist.bmp">
 <img src="./nest sswagger.bmp">
 </a>
