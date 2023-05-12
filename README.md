@@ -28,7 +28,7 @@
 </td>
 <td>
 <a href="https://github.com/IsmaelGB86/Porta-Proyectos/tree/ReactTodoList">
-<img src="./Todo.png">
+<img src="./Todo.bmp">
 </a>
 <div><h4>Titulo</h4><span>Lorem ipsum dolor sit amet consectetur adipiscing elit magna tristique, fringilla donec morbi eleifend nascetur.</span></div>
 </td>
