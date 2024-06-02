@@ -5,7 +5,7 @@
   </a>
   
   <sub>Author:
-  <a href="https://www.linkedin.com/in/ismael-garc%C3%ADa-bermejo/" target="_blank">Ismael García Bermejo</a><br>
+  <a href="https://www.linkedin.com/in/isberdev/" target="_blank">Ismael García Bermejo</a><br>
   </sub>
 </div>
 <div align="center">
